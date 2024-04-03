@@ -1,7 +1,5 @@
 ### 성장하자 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnr1014)](https://solved.ac/wldnr1014/)
-
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wldnr1014})](https://solved.ac/{wldnr1014})
 (╯°□°）╯ ︵ ɯɥʇᴉɹoƃl∀
 <!--
 **SongJiUk/SongJiUk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
