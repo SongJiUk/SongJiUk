@@ -1,4 +1,4 @@
-### 성장하자 👋
+### 👋
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnr1014)](https://solved.ac/wldnr1014)
 (╯°□°）╯ ︵ ɯɥʇᴉɹoƃl∀
 <!--
