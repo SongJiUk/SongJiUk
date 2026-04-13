@@ -27,7 +27,7 @@ Unity 기반 모바일 게임 클라이언트 개발자를 목표로 하고 있�
 
 ## 📄 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jiuk.dev-a78bfa?style=flat-square&logo=github&logoColor=white)](https://songjiuk.github.io/jiuk-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jiuk.dev-a78bfa?style=flat-square&logo=github&logoColor=white)](https://www.jiuk.dev)
 [![Notion](https://img.shields.io/badge/Notion_CV-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/273ea58668dd80769e87e65dcd3aca42)
 
 <br>
