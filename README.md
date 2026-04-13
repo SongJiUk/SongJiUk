@@ -32,4 +32,4 @@ Unity 기반 모바일 게임 클라이언트 개발자를 목표로 하고 있�
 
 ## 📊 Solved.ac
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnr1014)](https://solved.ac/wldnr1014)
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=wldnr1014)](https://solved.ac/wldnr1014)
